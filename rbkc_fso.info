@@ -1,0 +1,5 @@
+name = RBKC Force Signon
+description = Allow roles with "administer users" perm to bypass single signon and login directly
+core = 7.x
+package = RBKC
+version = 7.0
